@@ -1,0 +1,39 @@
+_repo: Aunt-Anne-Vol-2-of-2_75404
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clifford, W. K., Mrs.
+    aliases:
+    - Clifford, Mrs. W. K.
+    - Clifford, Lucy Lane
+    - Inglis, John
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '34477'
+    url: http://www.gutenberg.org/2009/agents/34477
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Clifford
+description: ''
+gutenberg_issued: '2025-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75404'
+language: en
+pgterms:marc904: https://archive.org/details/auntanne01clif _ https://archive.org/details/auntanne02clif
+pgterms:marc905: 20220713011359clifford
+pgterms:marc906: '1892'
+pgterms:marc907: EN
+production_note: Delphine Lettau, Pat McCoy & the online Distributed Proofreaders
+  Canada team
+publication_note: '  $aLondon :$bRichard Bentley & Son, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Older women -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Paid companions (Household employees) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Aunt Anne, Vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/75404
