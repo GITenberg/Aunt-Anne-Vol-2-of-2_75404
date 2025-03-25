@@ -1,5 +1,8 @@
 _repo: Aunt-Anne-Vol-2-of-2_75404
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75404-h/images/cover.jpg
 creator:
   author:
     agent_name: Clifford, W. K., Mrs.
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34477
     wikipedia: https://en.wikipedia.org/wiki/Lucy_Clifford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75404#Aunt-Anne-Vol-2-of-2
 gutenberg_issued: '2025-02-18'
 gutenberg_type: Text
 identifiers:
